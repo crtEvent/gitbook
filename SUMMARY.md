@@ -14,5 +14,7 @@
   * [JWT - Access, Refresh Token](team-project/2.-todo-app/jwt-access-refresh-token.md)
 * [3. Issue Tracker 프로젝트](team-project/3.-issue-tracker.md)
 * [4. RSS Reader 프로젝트](team-project/4.-rss-reader/README.md)
+  * [Login 방식](team-project/4.-rss-reader/login/README.md)
+    * [Session, JWT](team-project/4.-rss-reader/login/session-jwt.md)
   * [멀티 스레딩](team-project/4.-rss-reader/undefined.md)
   * [CORS 문제(Spring, NGINX)](team-project/4.-rss-reader/cors-spring-nginx.md)
